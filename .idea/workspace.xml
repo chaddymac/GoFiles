@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="076f6f38-5ab1-4673-8b35-46df7daa4fe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="076f6f38-5ab1-4673-8b35-46df7daa4fe6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +44,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="492" y="310" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607026231342" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1607026301522">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1607027440212">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1607026301522" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1607027440212" />
     <state x="505" y="233" key="search.everywhere.popup" timestamp="1607026124155">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
